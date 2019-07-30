@@ -1,0 +1,15 @@
+﻿<strings lang="en_US">
+	<str name="kSubMenuKey">Extended Running Headers &amp;&amp; Page Numbering</str>
+	<str name="kMenuNoOpenFiles">No open files!</str>
+	<str name="kMenuCanStart">Start AutoRH with active document...</str>
+	<str name="kMenuCancel">Cancel AutoRH...</str>
+	<str name="kMenuFPage">Do not set Running Headers on Section Title Pages</str>
+	<str name="kMenuLPage">Do not set Page Numbers on Section Last Pages</str>
+	<str name="kMenuCEPages">Do not set Running Headers and Page Numbers on Conditionally Empty Pages</str>
+	<str name="kDialogsHeader">AutoRH Service for extended Running Headers</str>
+	<str name="kConfirmStart">AutoRH Service Starting!</str>
+	<str name="kConfirmCancel">Do you really want to cancel?</str>
+    <str name="kMenuMarkPagesWithoutNumbering">Suppress Numbering on Selected Pages</str>
+    <str name="kMenuMarkPagesAllowNumbering">Allow Numbering on Selected Pages</str>
+</strings>
+

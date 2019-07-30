@@ -1,0 +1,14 @@
+﻿<strings lang="ru_RU">
+	<str name="kSubMenuKey">Расширенная поддержка колонтитулов и колонцифр</str>
+	<str name="kMenuNoOpenFiles">Нет открытых документов!</str>
+	<str name="kMenuCanStart">Запустить поддержку AutoRH на текущем документе...</str>
+	<str name="kMenuCancel">Отменить AutoRH...</str>
+	<str name="kMenuFPage">Не устанавливать колонтитулы на титульных полосах разделов</str>
+	<str name="kMenuLPage">Не устанавливать колонцифры на последних полосах разделов</str>
+	<str name="kMenuCEPages">Не устанавливать колонцифры и колонтитулы на условно-пустых страницах</str>
+	<str name="kDialogsHeader">AutoRH - расширенная поддержка колонтитулов</str>
+	<str name="kConfirmStart">AutoRH - запуск сервиса</str>
+	<str name="kConfirmCancel">Подтвердите отмену AutoRH</str>
+    <str name="kMenuMarkPagesWithoutNumbering">Не проставлять колонцифры на выделенных страницах</str>
+    <str name="kMenuMarkPagesAllowNumbering">Отменить запрет проставления колонцифры на выделенных страницах</str>
+</strings>

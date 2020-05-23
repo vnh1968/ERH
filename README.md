@@ -1,5 +1,5 @@
-# ERH (v.1.3.35)
-InDesign CC2017+ Running Headers with Extended Capabilities
+# ERH (2020)
+InDesign CC2020 Running Headers with Extended Capabilities
 
 Read Wiki for details.
 

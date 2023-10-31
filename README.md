@@ -1,5 +1,5 @@
 # ERH
-InDesign 2024 Enhansed Running Headers 
+InDesign 2024 Enhanced Running Headers 
 
 I'd like to experiment with writing a UXP script that puts paragraph numbers in running headings.
 There is a first working version of the script that is built on Windows 10, and it would be nice if someone tried to run it on macOS.

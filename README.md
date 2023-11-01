@@ -11,11 +11,17 @@ The script does not currently declare any specific rules. The names of paragraph
 
 The script so far works with text variables based on Paragraph Styles. There was no need to use Character Styles yet.
 
-The script can already be used if it is just important that the name of the chapters of any levels is with the actual number at the top of the page.
+The script can already be used if it is simply important that next to the title of the chapters of any levels there is an up-to-date number at the top of the page.
+
+On empty pages, the script **removes unnecessary running header**.
 
 If you open the document on another computer where the script is not installed, absolutely nothing will happen. The document will retain its last appearance.
 
 If you need to bring the document to the “standard” view, you just need to reassign parent spreads to all pages.
 
+The script logic checks for the presence of text variables and whether the user has used them on parent spreads.
+During operation, the script does not build new or change existing parent spreads, but simply builds new equivalent text frames on each page, following the standard rules and existing parameters.
+
 The script can be run several times in a row, the running headers will be completely rebuilt.
 This is convenient when working on a document.
+
